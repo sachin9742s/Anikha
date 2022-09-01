@@ -119,13 +119,16 @@ PM_START_TEX = """
 
 PM_START_TEXT = """
 *ʜᴇʟʟᴏ {} !*
+
 ✪ ɪ ᴀᴍ  ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ \nᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ
+
 *─────────────*
  ➻ *ᴜᴘᴛɪᴍᴇ:* `{}`
  ➻ *ᴜsᴇʀs:* `{}`
  ➻ *chats:* `{}`
 *─────────────*
-✪ ʜɪᴛ *ʜᴇʟᴘ* ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ \n[➥]*:*\nғɪʀꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ᴛʜᴇɴ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴀʙʏ 
+
+✪ ʜɪᴛ *ʜᴇʟᴘ* ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ \n<a href="https://te.legra.ph/file/5a2c869ebb8479ac455b0.jpg">[➥]</a>:<a href="t.me/KR_anikha_bot?startgroup=true">ғɪʀꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ᴛʜᴇɴ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴀʙʏ </a>
 """
 
 
@@ -138,17 +141,17 @@ I'm ᴀᴍ  ᴀʟɪᴠᴇ  ʙᴀʙʏ !
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ➕ ", url=f"t.me/{BOT_USERNAME}?startgroup=true"
+            text="❣️ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ❣️", url=f"t.me/{BOT_USERNAME}?startgroup=true"
         )
     ],
     [
-        InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="🏔️ ʜᴇʟᴘ 🏔️", callback_data="help_back"),
         InlineKeyboardButton(
-            text="sᴏᴜʀᴄᴇ 🌐", url="https://github.com/TEAM-ABG/ExonRobot"
+            text="🎶 ᴍᴜꜱɪᴄ 🎶", callback_data="music"
         ),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥂", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="❤️ ɪɴꜰᴏ ❤️ ", callback_data="info"),
         InlineKeyboardButton(
             text="ᴜᴘᴅᴀᴛᴇs 🏃‍♂️", url=f"https://t.me/{UPDATES_CHANNEL}"
         ),
@@ -157,13 +160,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-*ᴍᴀɪɴ* ᴄᴏᴍᴍᴀɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ:
-⍟ /help: PM's ʏᴏᴜ ᴛʜɪs ᴍᴇssᴀɢᴇ.
-⍟ /help <module name>: ᴘᴍ ʏᴏᴜ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴛʜᴀᴛ ᴍᴏᴅᴜʟᴇ.
-⍟ /donate: ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ʜᴏᴡ ᴛᴏ ᴅᴏɴᴀᴛᴇ!
-⍟ /settings:
-   ↣ ɪɴ ᴘᴍ: ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜ ʏᴏᴜʀ sᴇᴛᴛɪɴɢs ғᴏʀ ᴀʟʟ sᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇs.
-   ↣ ɪɴ ᴀ ɢʀᴏᴜᴘ: ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ᴄʜᴀᴛ  sᴇᴛᴛɪɴɢs.
+</b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ<b>
 """
 
 DONATE_STRING = """ᴊᴜsᴛ sᴜᴘᴘᴏʀᴛ ᴜs, ᴡᴇ ᴡɪʟʟ ʙᴇ ᴍᴏʀᴇ ᴛʜᴀɴ ʜᴀᴘᴘʏ"""
@@ -289,7 +286,7 @@ def start(update: Update, context: CallbackContext):
             time.sleep(0.4)
             lol.delete()
             update.effective_message.reply_sticker(
-                "CAACAgUAAx0CUgguZAABARdrYwt_f9vFYZop5n-EGGa80vLar9AAAjsIAAKagolX-O0V64tvzK8pBA"
+                "CAACAgUAAxkBAAJKJGMQo-puKzV7cnXkNlr7-HY2KhxkAAIVAQACyJRkFGZEMKKnFWwTKQQ"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(
@@ -465,9 +462,9 @@ def Exon_callback_data(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="⬅️", callback_data="Exon_prev"),
+                        InlineKeyboardButton(text="☜", callback_data="Exon_prev"),
                         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="Exon_back"),
-                        InlineKeyboardButton(text="➡️", callback_data="Exon_next"),
+                        InlineKeyboardButton(text="☞", callback_data="Exon_next"),
                     ]
                 ]
             ),
@@ -763,12 +760,12 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/8dea393ddf4fc2e339179.gif",
+                animation="https://te.legra.ph/file/e53a71a31d8f05f58a373.mp4",
                 caption=f"""
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 
 ━━━━━━━━━━━━━
-⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/{OWNER_USERNAME})
+⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐒ᴀᴄʜɪɴ 𝙎](https://t.me/{OWNER_USERNAME})
 ⍟ **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
 ⍟ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
 ⍟ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
