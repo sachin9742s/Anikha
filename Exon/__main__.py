@@ -128,7 +128,7 @@ PM_START_TEXT = """
  ➻ *chats:* `{}`
 *─────────────*
 
-✪ ʜɪᴛ *ʜᴇʟᴘ* ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ \n <a href="https://te.legra.ph/file/5a2c869ebb8479ac455b0.jpg">[➥]</a> : <a href="t.me/KR_anikha_bot?startgroup=true">ғɪʀꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ᴛʜᴇɴ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴀʙʏ </a>
+✪ ʜɪᴛ *ʜᴇʟᴘ* ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ \n[➥](https://te.legra.ph/file/5a2c869ebb8479ac455b0.jpg):ғɪʀꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ᴛʜᴇɴ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴀʙʏ
 """
 
 
