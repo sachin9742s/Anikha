@@ -72,7 +72,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴋɪᴄᴄʜᴀ �
 </h3>
  : ➻
 
-➥ [Sachin S] × <a href="https://github.com/sachin9742s" alt="Sachin S"> <img src="https://img.shields.io/badge/sachin9742s-90302f?logo=github" /></a>  
+➥ [Sachin S] × <a href="https://github.com/sachin9742s" alt="Sachin S"> <img src="https://img.shields.io/badge/⨀⃝𝐒𝐀𝐂𝐇𝐈𝐍 𝐒᭄𝕂ℝ 🇮🇳 【𝙾𝙵𝙵𝙻𝙸𝙽𝙴】™-90302f?logo=github" /></a>  
 
 ➥ [MY Bot] × <a href="https://t.me/KR_anikha_bot" alt="Anikha"> <img src="https://img.shields.io/badge/Bot-90302f?logo=github" /></a>  
 
