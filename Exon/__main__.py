@@ -297,7 +297,7 @@ def start(update: Update, context: CallbackContext):
             time.sleep(0.4)
             lol.delete()
             update.effective_message.reply_sticker(
-                "https://te.legra.ph/file/5a2c869ebb8479ac455b0.jpg"
+                "CAACAgQAAxkBAAJMO2MUktpccrva4ylR4mwnpPBwlpY3AAKCDQACaKOoULgJrOlkQfXnKQQ"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(
