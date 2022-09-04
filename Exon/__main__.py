@@ -784,6 +784,7 @@ def main():
 ⍟ **ʙᴏᴛ ᴠᴇʀsɪᴏɴ :** `1.0`
 ━━━━━━━━━━━━━
 """,
+
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
