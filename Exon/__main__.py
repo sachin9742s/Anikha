@@ -783,7 +783,7 @@ def main():
 ⍟ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{version_info[0]}.{version_info[1]}.{version_info[2]}`
 ⍟ **ʙᴏᴛ ᴠᴇʀsɪᴏɴ :** `1.0`
 ━━━━━━━━━━━━━
-"""
+""",
 buttons = [
     [
         InlineKeyboardButton(text="🏔️ ʜᴇʟᴘ 🏔️", callback_data="help_back"),
