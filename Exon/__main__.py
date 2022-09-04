@@ -783,7 +783,27 @@ def main():
 ⍟ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{version_info[0]}.{version_info[1]}.{version_info[2]}`
 ⍟ **ʙᴏᴛ ᴠᴇʀsɪᴏɴ :** `1.0`
 ━━━━━━━━━━━━━
-""",
+"""
+buttons = [
+    [
+        InlineKeyboardButton(text="🏔️ ʜᴇʟᴘ 🏔️", callback_data="help_back"),
+        InlineKeyboardButton(
+            text="🎶 ᴍᴜꜱɪᴄ 🎶", callback_data="music"
+        ),
+    ],
+    [
+        InlineKeyboardButton(text="❤️ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(
+            text="ᴄʜᴀɴɴᴇʟ 🏃‍♂️", url=f"https://t.me/{UPDATES_CHANNEL}"
+        ),
+    ],
+    [
+         InlineKeyboardButton(
+            text="❣️ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ❣️", url=f"t.me/{BOT_USERNAME}?startgroup=true"
+        ),
+    ],
+]
+
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
