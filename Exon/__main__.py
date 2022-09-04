@@ -146,7 +146,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="❤️ ꜱᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_CHAT}),
+        InlineKeyboardButton(text="❤️ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(
             text="ᴄʜᴀɴɴᴇʟ 🏃‍♂️", url=f"https://t.me/{UPDATES_CHANNEL}"
         ),
